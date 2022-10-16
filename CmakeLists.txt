@@ -1,3 +1,0 @@
-cmake_minimum_required(VERSION 3.10)
-project(Idontknow)
-add_executable(Idontknow blank.cpp)
